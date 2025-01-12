@@ -1,8 +1,20 @@
 theme: minima
 title: Shinzie Tandun
-description: portofolio
-minima:
-  skin: dark
-  social_links:
-    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
-    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
+description: portofolio description
+author:
+  name: Shinzie Tandun
+  email: "shinzietandun@gmail.com"
+
+header_pages:
+  - title: "Skills"
+    url: "/#skills"
+  - title: "Education"
+    url: "/#education"
+  - title: "Project"
+    url: "/#project"
+
+# Social links
+github_username:  s-tandun
+gitlab_username: s-tandun
+linkedin_username: shinzietandun
+rss: rss
