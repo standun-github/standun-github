@@ -2,7 +2,7 @@ theme: minima
 title: Shinzie Tandun
 description: portofolio
 minima:
+  skin: dark
   social_links:
-    - platform: deviantart  # same as SVG filename.
-      user_url: "https://www.deviantart.com/john.doe"  # URL of profile page.
-      title:  My profile at DeviantArt.com  # Optional. Text displayed on hovering over link.
+    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
+    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
