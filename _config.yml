@@ -1,17 +1,13 @@
 theme: minima
 title: Shinzie Tandun
 description: portofolio description
-author:
-  name: Shinzie Tandun
-  email: "shinzietandun@gmail.com"
+author: Shinzie Tandun
+email: "shinzietandun@gmail.com"
 
 header_pages:
-  - title: "Skills"
-    url: "/#skills"
-  - title: "Education"
-    url: "/#education"
-  - title: "Project"
-    url: "/#project"
+  - /#skills
+  - /#education
+  - /#project
 
 # Social links
 github_username:  s-tandun
