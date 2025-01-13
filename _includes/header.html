@@ -1,8 +1,7 @@
 <header class="site-header" role="banner">
 
     <div class="wrapper">
-        <h1 class="site-title">{{ site.title }}</h1>
-
+        <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
         <nav class="site-nav">
             <input type="checkbox" id="nav-trigger" class="nav-trigger" />
             <label for="nav-trigger">
@@ -14,9 +13,9 @@
             </label>
 
             <div class="trigger">
-                <a href="{{ "/#skills" }}">Skills</a>
-                <a href="{{ "/#education" }}">Education</a>
-                <a href="{{ "/#courseworks" }}">Projects</a> 
+                <a href="{{ "/#skills" | relative_url }}">Skills</a>
+                <a href="{{ "/#education" | relative_url }}">Education</a>
+                <a href="{{ "/#courseworks" | relative_url }}">Projects</a> 
             </div>
         </nav>
     
