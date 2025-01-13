@@ -12,3 +12,9 @@ github_username:  s-tandun
 gitlab_username: s-tandun
 linkedin_username: shinzietandun
 rss: rss
+
+sass:
+  style: compressed
+
+assets:
+  - "/assets/css/custom.css"
