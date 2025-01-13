@@ -7,6 +7,10 @@ description: |
 author: Shinzie Tandun
 email: "shinzietandun@gmail.com"
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 # Social links
 github_username:  s-tandun
 gitlab_username: s-tandun
