@@ -26,6 +26,11 @@ I'm a postgraduate student living in NZ who is passionate in software developmen
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
+### Other Skills
+
+- Software Development: Agile methodologies, DevOps principles, Object-oriented programming (OOP)
+- Other technical skills: Data structures and algorithms, Machine learning basics
+
 ## Education
 
 - M.CompSc. Computer Science, Victoria University of Wellington (_July 2024 - Present_)
@@ -39,11 +44,11 @@ Here are some of the projects I completed as part of my coursework:
 
 Set up and deployed a WordPress site using Docker for containerization, PHP for backend scripting, MySQL for database management, and Ansible for automation. The deployment process was managed through Git CI, ensuring continuous integration and smooth updates. I applied Agile principles throughout the project, using iterative cycles to implement features, create separate branches for different functionalities, and push updates before merging. Additionally, I integrated linting tools to maintain high code quality and ensure consistent standards.
 
-- **rail-bot [link](https://github.com/standun-github/rail-bot)**
+- **Rail-bot [link](https://github.com/standun-github/rail-bot)**
 
 Worked with team to build a Python-based web scraping app using NLTK and BeautifulSoup to fetch train ticket information from the National Rail platform. The app allows users to query their desired travel locations and returns the cheapest ticket option for their route. The application was deployed on Discord for easy access and interaction.
 
-- **Computing Science Final Project - Reversi [link](https://github.com/standun-github/othello-c)**
+- **Computer Science Final Project - Reversi [link](https://github.com/standun-github/othello-c)**
 
 An Othello board game in C++ and OpenGL to create the graphical user interface (GUI). The game offers both player-versus-player and player-versus-AI modes. The AI was built using heuristic search and tree search algorithms to determine the optimal move. Additionally, the project allowed me to practice object-oriented programming (OOP) principles ensuring reusability.
 
@@ -51,6 +56,6 @@ An Othello board game in C++ and OpenGL to create the graphical user interface (
 
 These are projects I worked on during free time:
 
-- **Vite Blogsite [link](https://gitlab.com/s-tandun/blog)**
+- **Vue.js Project [link](https://gitlab.com/s-tandun/blog)**
 
 Developed a full-stack web application with modern tools like Vite, Vue.js and Bootstrap for the front-end, and Node.js, Express.js, and MongoDB for the back-end. Features include registration, login, fetching/posting articles, and sending emails. The application is deployed using Netlify and GitLab Pages, and with GitLab CI configured for automated deployment.
