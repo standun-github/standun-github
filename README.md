@@ -1,8 +1,8 @@
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Shinzie.
+### <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Shinzie.
 
 ---
 
-### Skills
+## Skills
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
@@ -22,9 +22,21 @@
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
-### Education
+## Education
 
-- M.CompSc., Computer Science | Victoria University of Wellington (_July 2024 - Present_)
-- B.Sc., Computing Science | University of East Anglia (_July 2021_)
+- M.CompSc. Computer Science, Victoria University of Wellington (_July 2024 - Present_)
+- B.Sc. Computing Science, University of East Anglia (_July 2021_)
 
-### Projects
+## Courseworks
+
+Here are some of the projects I completed as part of my coursework:
+
+- **[Project 1](#courseworks)**
+- **[Project 2](#courseworks)**
+- **[Project 3](#courseworks)**
+
+## Personal Projects
+
+These are projects I worked on during free time:
+
+- **[Project 1](#personal-projects)**
