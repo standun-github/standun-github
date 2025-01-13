@@ -1,4 +1,6 @@
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Shinzie.
+# Welcome!
+
+## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Shinzie.
 
 I'm a CS student living in NZ who is passionate in software development and technologies. I love to actively look for opportunities to learn, contribute and team up with others. I enjoy coding with Python and Java because they challenge me to think outside of the box and turn ideas into real apps.
 
