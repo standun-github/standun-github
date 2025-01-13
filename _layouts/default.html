@@ -1,3 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 </head>
+<body>
+
+  <header>
+    {% include header.html %}
+  </header>
+
+  <main>
+    <!-- This is where the content of your Markdown files will appear -->
+    {{ content }}
+  </main>
+
+  <footer>
+    {% include footer.html %}
+  </footer>
+
+</body>
+</html>
