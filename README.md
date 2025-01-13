@@ -1,25 +1,26 @@
 ### About me
 
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Shinzie.</h3>
+## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Shinzie.
+
+---
 
 ### Skills
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
-![java](https://img.shields.io/static/v1?logo=go&label=&message=java&color=36465D&logoColor=AAA&style=flat-square)
-![javascript](https://img.shields.io/static/v1?logo=javascript&label=&javascript=sql&color=36465D&logoColor=AAA&style=flat-square)
-![SQL](https://img.shields.io/static/v1?logo=sql&label=&message=sql&color=36465D&logoColor=AAA&style=flat-square)
-![C#](https://img.shields.io/static/v1?logo=C#&label=&message=C#&color=36465D&logoColor=AAA&style=flat-square)
-
-&nbsp;&nbsp;&nbsp;
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
-![altassian](https://img.shields.io/static/v1?logo=altassian&label=&message=altassian&color=36465D&logoColor=AAA&style=flat-square)
-![figma](https://img.shields.io/static/v1?logo=figma&label=&message=figma&color=36465D&logoColor=AAA&style=flat-square)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
-
----
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 ### Education
 
