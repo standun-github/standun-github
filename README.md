@@ -31,12 +31,12 @@
 
 Here are some of the projects I completed as part of my coursework:
 
-- **[Project 1](#courseworks)**
-- **[Project 2](#courseworks)**
-- **[Project 3](#courseworks)**
+- **Project 1 [link](#courseworks)**
+- **Project 2 [link](#courseworks)**
+- **Project 3 [link](#courseworks)**
 
 ## Personal Projects
 
 These are projects I worked on during free time:
 
-- **[Project 1](#personal-projects)**
+- **Project 1 [link](#personal-projects)**
