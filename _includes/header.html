@@ -4,10 +4,12 @@
         <h1 class="site-title">
             {{ site.title }}
         </h1>
-        <nav class="site-nav" style="display: flex; gap: 1em;">
-            <a href="{{ "#skills" | relative_url }}" style="text-decoration: none;">Skills</a>
-            <a href="{{ "#education" | relative_url }}" style="text-decoration: none;">Education</a>
-            <a href="{{ "#courseworks" | relative_url }}" style="text-decoration: none;">Project</a> 
+        <nav class="site-nav">
+            <div class="trigger">
+                <a class="page-link" href="{{ "#skills" | relative_url }}">Skills</a>
+                <a class="page-link" href="{{ "#education" | relative_url }}">Education</a>
+                <a class="page-link" href="{{ "#courseworks" | relative_url }}">Project</a> 
+            </div>
         </nav>
     
       </div>
