@@ -35,14 +35,14 @@ I'm a CS student living in NZ who is passionate in software development and tech
 
 ## Education
 
-- M.CompSc. Computer Science, Victoria University of Wellington (_July 2024 - Present_)
+- M.Comp.Sc. Computer Science, Victoria University of Wellington (_July 2024 - Present_)
 - B.Sc. Computing Science, University of East Anglia (_July 2021_)
 
 ## Courseworks
 
 Here are some of the projects I completed as part of my coursework:
 
-- **WordPress Dev Ops [link](#courseworks)**
+- **WordPress Dev Ops [link](https://gitlab.com/s-tandun/swen426-assignment2)**
 
 Set up and deployed a WordPress site using Docker for containerization, PHP for backend scripting, MySQL for database management, and Ansible for automation. The deployment process was managed through Git CI, ensuring continuous integration and smooth updates. I applied Agile principles throughout the project, using iterative cycles to implement features, create separate branches for different functionalities, and push updates before merging. Additionally, I integrated linting tools to maintain high code quality and ensure consistent standards.
 
